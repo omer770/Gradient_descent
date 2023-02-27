@@ -2,4 +2,3 @@
 Exploring Gradient descent:
 1
 1
-1
